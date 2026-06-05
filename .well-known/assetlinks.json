@@ -1,1 +1,1 @@
-[{"relation":["delegate_permission/common.handle_all_urls"],"target":{"namespace":"android_app","package_name":"com.knspro.studio","sha256_cert_fingerprints":["03:8A:48:5B:9C:22:66:8A:3A:0F:3A:5E:6D:8E:5D:7C:8C:5E:5A:5D:1C:5A:5D:5C:4E:5A:5D:5C:4E:5D:5C:4E"]}}]
+[{"relation":["delegate_permission/common.handle_all_urls"],"target":{"namespace":"android_app","package_name":"com.sanoobhassankn.twa","sha256_cert_fingerprints":["03:8A:48:5B:0C:0E:BE:A2:17:BA:E9:75:4F:4B:2D:08:99:6E:7F:40:2E:11:96:59:AD:9E:4C:CA:4D:95:09:0E"]}}]
