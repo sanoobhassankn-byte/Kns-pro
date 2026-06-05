@@ -1,1 +1,8 @@
-[{"relation":["delegate_permission/common.handle_all_urls"],"target":{"namespace":"android_app","package_name":"com.sanoobhassankn.twa","sha256_cert_fingerprints":["03:8A:48:5B:0C:0E:BE:A2:17:BA:E9:75:4F:4B:2D:08:99:6E:7F:40:2E:11:96:59:AD:9E:4C:CA:4D:95:09:0E"]}}]
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.sanoobhassankn.twa",
+    "sha256_cert_fingerprints": ["A9:BC:71:41:95:67:C8:5E:8B:4F:E5:39:61:34:BB:C5:F4:7F:FC:34:85:D1:96:EF:00:73:17:FE:72:D8:04:F0"]
+  }
+}]
